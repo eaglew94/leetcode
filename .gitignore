@@ -1,4 +1,3 @@
-project/*
-!project/project.sln
-!project/project
-!project/project/*
+*
+!all
+
