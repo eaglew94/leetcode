@@ -1,6 +1,6 @@
 # Leetcode Solution
 
-## Pratices make perfect
+**Pratices make perfect**
 
 | # | Title | Difficulty |
 |:-:|:-----:|:----------:|
