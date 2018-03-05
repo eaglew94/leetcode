@@ -1,7 +1,7 @@
-# leetcode solution
-====
-##Pratices make perfect
-----
+# Leetcode Solution
+
+## Pratices make perfect
+
 | # | Title | Difficulty |
 |:-:|:-----:|:----------:|
 | 1 | Two Sum | Easy |    
