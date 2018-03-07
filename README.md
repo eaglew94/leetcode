@@ -9,6 +9,7 @@
 | 3 | Longest Substring Without Repeating Characters | Medium | 
 | 7 | Reverse Integer | Easy |
 | 9 | Palindrome Number | Easy |
+| 13 | Roman to Integer | Easy |
 | 460 | LFU Cache | Hard |    
 
 
